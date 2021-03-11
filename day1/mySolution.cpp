@@ -1,6 +1,5 @@
-#include <string>
 #include <vector>
-#include <iostream>
+#include "PrimeNumbers.h"
 
 using namespace std;
 
@@ -23,7 +22,7 @@ int findNextPrime(int p, vector<int> & v)
     }
     return ++ans;
 }
-int solution(int n) {
+int mySolution(int n) {
     vector<int> nums(n);
     
     for (auto & m: nums)
@@ -46,11 +45,4 @@ int solution(int n) {
         answer += m;
     }
     return answer;
-}
-
-int main(){
-    int n;
-    cin >> n;
-    cout << solution(n)<<endl;
-    return 0;
 }

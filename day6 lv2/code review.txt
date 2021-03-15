@@ -1,0 +1,15 @@
+mySol
+stack을 이용함.
+뒤에서부터 prices를 읽으면서,
+1. 가격이 올라가면(=정방향으로는 내려감) 1초만에 가격이 떨어진것
+2. 가격이 내려가면, 가격이 다시 올라갈때까지 스택에 넣음.
+2-1. 가격과 스택 탑 가격을 비교하면서, 스택탑 가격이 더 낮아질때까지 스택pop
+2-2. 그 순간의 index 차이 = 가격이 유지된 시간.
+
+알고리즘이 괜히 복잡함. 그냥 스택 안 쓰고 straight foward하게 풀어도 worstcase time complexity는 O(n^2)로 같다...
+
+Sol
+straightforward.
+
+Sol2
+mySol과 같은 알고리즘. c++에 stack library가 있는걸 활용함.

@@ -1,24 +1,14 @@
-#include <string>
-#include <vector>
-
+#include<vector>
+#include<iostream>
 using namespace std;
-void makeDescending(string & number, int & k)
+
+int main()
 {
-    int i=0;
-    while (i+1<number.size())
-    {
-        if (k==0)
-            break;
-        while(number[i+1]-number[i]>0 && i>=0)
-        {
-            k--;
-            number = number.erase(i,1);
-            i--;
-        }
-        i++;
+    vector<vector<int>> board(2,vector<int>(3,0));
+    board[0][2] = 1;
+    for(int i=0;i<2;++i){
+        cout << board[i][2] << endl;
     }
-}
-string solution(string number, int k) {
-    makeDescending(number,k);
-    return number.substr(0,number.size()-k);
+
+    return 0;
 }

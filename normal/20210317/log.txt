@@ -1,0 +1,4 @@
+name 124나라의숫자
+difficulty normal
+timelog 20210317
+url https://programmers.co.kr/learn/courses/30/lessons/12899

@@ -1,0 +1,4 @@
+name 큰수만들기
+difficulty hard
+timelog 20210319
+url https://programmers.co.kr/learn/courses/30/lessons/42883

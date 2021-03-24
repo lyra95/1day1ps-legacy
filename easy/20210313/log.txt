@@ -1,0 +1,4 @@
+name 소수만들기
+difficulty easy
+timelog 20210313
+url https://programmers.co.kr/learn/courses/30/lessons/12977

@@ -1,0 +1,4 @@
+name 소수찾기
+difficulty easy
+timelog 20210311
+url https://programmers.co.kr/learn/courses/30/lessons/12921

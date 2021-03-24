@@ -1,0 +1,4 @@
+name k번째수
+difficulty easy
+timelog 20210327
+url https://programmers.co.kr/learn/courses/30/lessons/42748

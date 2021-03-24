@@ -1,0 +1,4 @@
+name 나누어떨어지는숫자배열
+difficulty easy
+timelog 20210331
+url https://programmers.co.kr/learn/courses/30/lessons/12910

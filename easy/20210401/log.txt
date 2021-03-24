@@ -1,0 +1,4 @@
+name 평균구하기
+difficulty easy
+timelog 20210401
+url https://programmers.co.kr/learn/courses/30/lessons/12944

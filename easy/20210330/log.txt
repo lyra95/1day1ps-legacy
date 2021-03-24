@@ -1,0 +1,4 @@
+name 가운데글자가져오기
+difficulty easy
+timelog 20210330
+url https://programmers.co.kr/learn/courses/30/lessons/12903

@@ -1,0 +1,4 @@
+name 같은숫자는싫어
+difficulty easy
+timelog 20210329
+url https://programmers.co.kr/learn/courses/30/lessons/12906

@@ -1,0 +1,4 @@
+name:문자열내p와y의개수
+difficulty:easy
+timelog:20210403
+url:https://programmers.co.kr/learn/courses/30/lessons/12916

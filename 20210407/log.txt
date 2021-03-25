@@ -1,0 +1,4 @@
+name:정수제곱근판별
+difficulty:easy
+timelog:20210407
+url:https://programmers.co.kr/learn/courses/30/lessons/12934

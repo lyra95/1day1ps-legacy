@@ -1,0 +1,4 @@
+name:내적
+difficulty:easy
+timelog:20210404
+url:https://programmers.co.kr/learn/courses/30/lessons/70128

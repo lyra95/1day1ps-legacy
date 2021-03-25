@@ -1,0 +1,4 @@
+name:콜라츠추측
+difficulty:easy
+timelog:20210409
+url:https://programmers.co.kr/learn/courses/30/lessons/12943

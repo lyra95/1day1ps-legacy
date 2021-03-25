@@ -1,0 +1,4 @@
+name:짝수와홀수
+difficulty:easy
+timelog:20210408
+url:https://programmers.co.kr/learn/courses/30/lessons/12937

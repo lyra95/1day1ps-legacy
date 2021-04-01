@@ -1,0 +1,4 @@
+name:모의고사
+difficulty:easy
+timelog:20210414
+url:https://programmers.co.kr/learn/courses/30/lessons/42840
